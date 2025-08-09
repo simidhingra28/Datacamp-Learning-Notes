@@ -1,0 +1,10 @@
+1. Introduction:
+- A series of data sequenced by time is called as a Time series. 
+- eg: stock prices, unemploment rates, heart rate, etc.
+
+While Plotting a time series data - time on x axis
+
+2. Seasonality:
+- repeating patterns in data that can be related to time such as weeks or months or seasons etc
+
+
